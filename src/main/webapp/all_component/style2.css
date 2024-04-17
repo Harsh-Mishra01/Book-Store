@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.bg-custom{
+	background-color : #283593;
+}
+.logo{
+	color : green;
+}
+.top{
+	height :20px;
+	background-color : #283593;
+
+}
+.navbar .nav-item:hover .nav-link {
+	background-color : white;
+	color : red;
+	border-radius: 7px;	
+}
+
+
